@@ -1,0 +1,38 @@
+.main_block {
+    width: 1270px;
+    height: 570px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    background-color: forestgreen;
+    background-image: url("images/image_bgc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+input {
+    width: 200px;
+    height: 20px;
+}
+#usd {
+    margin-bottom: 30px;
+}
+.usd {
+    display: flex;
+    flex-direction: column;
+}
+.com {
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    margin-bottom: 150px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+span {
+    font-family: "Cambria Math";
+    color: #020202;
+}
